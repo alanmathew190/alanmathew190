@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [https://alanmathew190.github.io/alan.j.mathew-personalportfolio/](https://alanmathew190.github.io/alan.j.mathew-personalportfolio/)
+- 👨‍💻 All of my projects are available at [https://alanmathew190.github.io/alan.j.mathew-personalportfolio/](https://alan-j-mathew-portfolio.vercel.app/)
 
 - 📫 How to reach me **alanmathew190@gmail.com**
 
