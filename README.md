@@ -71,6 +71,9 @@
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubdesktop.svg" width="40"/>
   </a>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/alanmathew190/alanmathew190/output/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
