@@ -39,7 +39,7 @@
 
 - **Frontend:** React, Tailwind CSS, HTML5, CSS3, JavaScript  
 - **Backend:** Django, Python  
-- **Databases:** MySQL, MongoDB  
+- **Databases:** MySQL, PostGreSQL  
 - **Tools:** Git, GitHub, GitHub Desktop, VS Code  
 - **Currently Exploring:** Advanced React patterns & UI performance
 
