@@ -21,9 +21,7 @@
 - 👨‍💻 Portfolio:  
   👉 <a href="https://alan-j-mathew-portfolio.vercel.app/" target="_blank">alan-j-mathew-portfolio.vercel.app</a>
 - 📫 Reach me at **alanmathew190@gmail.com**
-<p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400"/>
-</p>
+
 
 ---
 
