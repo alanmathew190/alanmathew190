@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Alan J Mathew</h1>
 <h3 align="center">Web Developer | Full-Stack Enthusiast | India 🇮🇳</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=550&lines=Web+Developer;Full-Stack+Enthusiast;React+%7C+Django+%7C+Tailwind;Always+Learning+New+Things" />
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=alanmathew190&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
