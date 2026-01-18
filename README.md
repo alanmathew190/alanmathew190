@@ -33,41 +33,72 @@
 
 ---
 
+
+
+### 🧠 Skills Snapshot
+
+- **Frontend:** React, Tailwind CSS, HTML5, CSS3, JavaScript  
+- **Backend:** Django, Python  
+- **Databases:** MySQL, MongoDB  
+- **Tools:** Git, GitHub, GitHub Desktop, VS Code  
+- **Currently Exploring:** Advanced React patterns & UI performance
+
 ### 🛠️ Tech Stack
 <p align="left">
   <a href="https://reactjs.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.djangoproject.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40"/>
-  </a>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2560px-Tailwind_CSS_Logo.svg.png" width="40"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.python.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.mongodb.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://github.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://desktop.github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubdesktop.svg" width="40"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/250px-Github-desktop-logo-symbol.svg.png?20200316183539" width="40"/>
   </a>
 </p>
+
+
+
 ---
 
 ### 📊 GitHub Stats
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alanmathew190&show_icons=true&locale=en" alt="alanmathew190" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alanmathew190&" alt="alanmathew190" /></p>
+
+
+
+---
+
+### 🌱 Learning & Growth
+
+- Actively improving problem-solving skills
+- Exploring open-source contribution workflows
+- Learning best practices in full-stack development
+
+
+
+
+⭐ *If you like my work, consider starring my repositories!*  
+🤝 *Open to collaboration and learning opportunities*
+
