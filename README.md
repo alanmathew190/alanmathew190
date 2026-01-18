@@ -7,12 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=alanmathew190&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=alanmathew190&margin-w=10&no-frame=true" alt="trophies"/>
-  </a>
-</p>
-
 ---
 
 ### 🚀 About Me
