@@ -21,6 +21,9 @@
 - 👨‍💻 Portfolio:  
   👉 <a href="https://alan-j-mathew-portfolio.vercel.app/" target="_blank">alan-j-mathew-portfolio.vercel.app</a>
 - 📫 Reach me at **alanmathew190@gmail.com**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="400"/>
+</p>
 
 ---
 
@@ -71,17 +74,8 @@
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubdesktop.svg" width="40"/>
   </a>
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alanmathew190/alanmathew190/output/github-contribution-grid-snake.svg" />
-</p>
-
 ---
 
 ### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alanmathew190&show_icons=true&theme=default" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanmathew190&layout=compact" height="160"/>
-</p>
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alanmathew190&" alt="alanmathew190" /></p>
